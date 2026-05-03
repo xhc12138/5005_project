@@ -1,0 +1,5 @@
+output/*.csv
+output/*.json
+output/*.png
+output/*.md
+.venv
